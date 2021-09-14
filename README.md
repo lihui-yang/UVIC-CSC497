@@ -1,1 +1,2 @@
 # UVIC-CSC497
+This project is an interdisciplinary project between psychology and computer science. The purpose is to review the current research of human-computer interaction (HCI) based on psychological theories and explore the role of personality traits in the HCI user interface. The project will focus on the Big Five Model personality traits to investigate the influence of each trait in the HCI user interface.
